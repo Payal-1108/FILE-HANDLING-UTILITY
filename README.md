@@ -30,3 +30,8 @@ File Searching: A function to search for specific words or phrases within files.
 Exception Handling: Implementation of try-catch blocks to manage potential errors.
 
 #OUTPUT OF TASK
+![Image](https://github.com/user-attachments/assets/b2549eaa-9293-4a85-9be9-939d7455fbf2)
+
+![Image](https://github.com/user-attachments/assets/de91e759-3e83-4394-917d-439e5d8c428f)
+
+![Image](https://github.com/user-attachments/assets/b8a3c698-6ddb-4713-bcd7-a317a1134be0)
